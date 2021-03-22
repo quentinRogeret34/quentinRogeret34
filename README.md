@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @quentinRogeret34
+- 🌱 I’m currently learning Pythgn ! 
+- 📫 How to reach me quentin.rogeret34@gmail.com
