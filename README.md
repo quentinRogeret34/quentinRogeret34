@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @quentinRogeret34
-- 🌱 I’m currently learning Python ! 
 - 📫 How to reach me quentin.rogeret34@gmail.com
